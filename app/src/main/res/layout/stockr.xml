@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="650dp"
+    app:cardBackgroundColor="@color/AntiqueWhite"
+    app:cardCornerRadius="30dp"
+    app:cardElevation="3dp"
+    android:layout_gravity="center"
+    android:layout_centerInParent="true"
+    app:cardUseCompatPadding="true">
+
+
+
+    <RelativeLayout
+        android:layout_width="550dp"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/linearstock1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/dish1stockname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dish 1 Stock : "
+                android:textColor="@android:color/black"
+                android:textSize="40dp" />
+
+            <EditText
+                android:id="@+id/dish1stock"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/edit_text"
+                android:ems="10"
+                android:fontFamily="@font/cantora_one"
+                android:gravity="center"
+                android:hint="00"
+                android:textColorHint="@color/Gray"
+                android:inputType="number"
+                android:textColor="@color/Black"
+                android:textSize="22dp" />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/linearsock2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearstock1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/dish2stockname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dish 2 Stock : "
+                android:textColor="@android:color/black"
+                android:textSize="40dp" />
+
+            <EditText
+                android:id="@+id/dish2stock"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/edit_text"
+                android:ems="10"
+                android:fontFamily="@font/cantora_one"
+                android:gravity="center"
+                android:hint="00"
+                android:textColorHint="@color/Gray"
+
+                android:inputType="number"
+                android:textColor="@color/Black"
+                android:textSize="22dp" />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/linearsock3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearsock2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/dish3stockname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dish 3 Stock : "
+                android:textColor="@android:color/black"
+                android:textSize="40dp" />
+
+            <EditText
+                android:id="@+id/dish3stock"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/edit_text"
+                android:ems="10"
+                android:fontFamily="@font/cantora_one"
+                android:gravity="center"
+                android:hint="00"
+                android:textColorHint="@color/Gray"
+                android:inputType="number"
+                android:textColor="@color/Black"
+                android:textSize="22dp" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearsock4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearsock3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/dish4stockname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dish 4 Stock : "
+                android:textColor="@android:color/black"
+                android:textSize="40dp" />
+
+            <EditText
+                android:id="@+id/dish4stock"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/edit_text"
+                android:ems="10"
+                android:fontFamily="@font/cantora_one"
+                android:gravity="center"
+                android:hint="00"
+                android:textColorHint="@color/Gray"
+
+                android:inputType="number"
+                android:textColor="@color/Black"
+                android:textSize="22dp" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearsock5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearsock4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/dish5stockname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dish 5 Stock : "
+                android:textColor="@android:color/black"
+                android:textSize="40dp" />
+
+            <EditText
+                android:id="@+id/dish5stock"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/edit_text"
+                android:ems="10"
+                android:fontFamily="@font/cantora_one"
+                android:gravity="center"
+                android:hint="00"
+                android:textColorHint="@color/Gray"
+                android:inputType="number"
+                android:textColor="@color/Black"
+                android:textSize="22dp" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearsock6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearsock5"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/dish6stockname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dish 6 Stock : "
+                android:textColor="@android:color/black"
+                android:textSize="40dp" />
+
+            <EditText
+                android:id="@+id/dish6stock"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/edit_text"
+                android:ems="10"
+                android:fontFamily="@font/cantora_one"
+                android:gravity="center"
+                android:hint="00"
+                android:textColorHint="@color/Gray"
+                android:inputType="number"
+                android:textColor="@color/Black"
+                android:textSize="22dp" />
+
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/savestock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/linearsock6"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="@color/Green"
+            android:text="Save"
+            android:textColor="#fff"
+            android:textSize="36sp" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

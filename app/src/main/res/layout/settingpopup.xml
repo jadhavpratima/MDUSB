@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="450dp"
+    app:cardBackgroundColor="@color/GreenYellow"
+    app:cardCornerRadius="30dp"
+    app:cardElevation="3dp"
+    android:layout_gravity="center"
+    android:layout_centerInParent="true"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="550dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:textSize="28dp"
+            android:background="@color/Green"
+            android:layout_marginRight="50dp"
+            android:id="@+id/senser"
+            android:layout_marginTop="30dp"
+            android:layout_centerHorizontal="true"
+            android:text="Reset SR"
+            android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+            android:textColor="@android:color/white"
+            android:fontFamily="@font/andika"
+            />
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:textSize="28dp"
+            android:background="@color/Green"
+            android:layout_below="@+id/senser"
+            android:id="@+id/delaytime"
+            android:layout_centerHorizontal="true"
+            android:text="Reset Time"
+            android:layout_marginTop="20dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+            android:textColor="@android:color/white"
+            android:fontFamily="@font/andika"
+            />
+
+
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="25dp"
+          android:id="@+id/linearsenser"
+          android:layout_centerHorizontal="true"
+          android:layout_below="@+id/delaytime"
+          android:orientation="horizontal">
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="Senser/Relay :"
+               android:textStyle="bold"
+               android:textColor="@color/black"
+               android:textSize="25dp"/>
+
+          <EditText
+              android:id="@+id/one"
+              android:layout_width="30dp"
+              android:layout_height="50dp"
+              android:layout_gravity="center"
+              android:layout_marginLeft="10dp"
+              android:background="@drawable/edit_text"
+              android:fontFamily="@font/cantora_one"
+              android:gravity="center"
+              android:inputType="number"
+              android:maxLength="1"
+
+              android:singleLine="true"
+              android:textColor="#000"
+              android:textSize="35sp" />
+          <EditText
+              android:id="@+id/two"
+              android:layout_width="30dp"
+              android:layout_height="50dp"
+              android:layout_gravity="center"
+              android:layout_marginLeft="10dp"
+              android:background="@drawable/edit_text"
+              android:fontFamily="@font/cantora_one"
+              android:gravity="center"
+              android:maxLength="1"
+              android:inputType="number"
+
+              android:singleLine="true"
+              android:textColor="#000"
+              android:textSize="35sp" />
+          <EditText
+              android:id="@+id/three"
+              android:layout_width="30dp"
+              android:layout_height="50dp"
+              android:layout_gravity="center"
+              android:layout_marginLeft="10dp"
+              android:background="@drawable/edit_text"
+              android:fontFamily="@font/cantora_one"
+              android:gravity="center"
+              android:maxLength="1"
+              android:inputType="number"
+
+              android:singleLine="true"
+              android:textColor="#000"
+              android:textSize="35sp" />
+          <EditText
+              android:id="@+id/four"
+              android:layout_width="30dp"
+              android:layout_height="50dp"
+              android:layout_gravity="center"
+              android:layout_marginLeft="10dp"
+              android:background="@drawable/edit_text"
+              android:fontFamily="@font/cantora_one"
+              android:gravity="center"
+              android:maxLength="1"
+              android:inputType="number"
+
+              android:singleLine="true"
+              android:textColor="#000"
+              android:textSize="35sp" />
+
+          <TextView
+              android:id="@+id/five"
+              android:layout_width="30dp"
+              android:layout_height="50dp"
+              android:layout_gravity="center"
+              android:layout_marginLeft="10dp"
+              android:background="@drawable/edit_text"
+              android:fontFamily="@font/cantora_one"
+              android:gravity="center"
+              android:maxLength="1"
+              android:singleLine="true"
+              android:text="S"
+              android:textColor="#000"
+              android:textSize="35sp" />
+
+          <TextView
+              android:id="@+id/six"
+              android:layout_width="30dp"
+              android:layout_height="50dp"
+              android:layout_gravity="center"
+              android:layout_marginLeft="10dp"
+              android:background="@drawable/edit_text"
+              android:fontFamily="@font/cantora_one"
+              android:gravity="center"
+              android:maxLength="1"
+              android:singleLine="true"
+              android:text="R"
+              android:textColor="#000"
+              android:textSize="35sp" />
+
+
+          <Button
+              android:layout_width="100dp"
+              android:layout_height="wrap_content"
+              android:textSize="25dp"
+              android:background="@color/Green"
+              android:text="SET"
+              android:id="@+id/setsensers"
+              android:layout_marginLeft="10dp"
+              android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+              android:textColor="@android:color/white"
+              android:fontFamily="@font/andika"
+              />
+
+
+
+      </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/linearsenser"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Delay time      :"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="25dp"/>
+
+            <EditText
+                android:id="@+id/oneT"
+                android:layout_width="30dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/edit_text"
+                android:fontFamily="@font/cantora_one"
+                android:gravity="center"
+                android:maxLength="1"
+                android:inputType="number"
+
+                android:singleLine="true"
+                android:textColor="#000"
+                android:textSize="35sp" />
+            <EditText
+                android:id="@+id/twoT"
+                android:layout_width="30dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/edit_text"
+                android:fontFamily="@font/cantora_one"
+                android:gravity="center"
+                android:maxLength="1"
+                android:inputType="number"
+
+                android:singleLine="true"
+                android:textColor="#000"
+                android:textSize="35sp" />
+            <EditText
+                android:id="@+id/threeT"
+                android:layout_width="30dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/edit_text"
+                android:fontFamily="@font/cantora_one"
+                android:gravity="center"
+                android:maxLength="1"
+                android:inputType="number"
+
+                android:singleLine="true"
+                android:textColor="#000"
+                android:textSize="35sp" />
+            <EditText
+                android:id="@+id/fourT"
+                android:layout_width="30dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/edit_text"
+                android:fontFamily="@font/cantora_one"
+                android:gravity="center"
+                android:maxLength="1"
+                android:inputType="number"
+
+                android:singleLine="true"
+                android:textColor="#000"
+                android:textSize="35sp" />
+            <EditText
+                android:id="@+id/fiveT"
+                android:layout_width="30dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/edit_text"
+                android:fontFamily="@font/cantora_one"
+                android:gravity="center"
+                android:maxLength="1"
+                android:singleLine="true"
+                android:inputType="number"
+
+                android:textColor="#000"
+                android:textSize="35sp" />
+            <EditText
+                android:id="@+id/sixT"
+                android:layout_width="30dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/edit_text"
+                android:fontFamily="@font/cantora_one"
+                android:gravity="center"
+                android:inputType="number"
+
+                android:maxLength="1"
+                android:singleLine="true"
+                android:textColor="#000"
+                android:textSize="35sp" />
+
+
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textSize="25dp"
+                android:background="@color/Green"
+                android:text="SET"
+                android:id="@+id/settime"
+                android:layout_marginLeft="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+                android:textColor="@android:color/white"
+                android:fontFamily="@font/andika"
+                />
+
+
+
+        </LinearLayout>
+
+
+
+
+
+        <TextView
+            android:id="@+id/tvClose"
+            android:layout_width="match_parent"
+            android:text="Close"
+            android:textColor="@color/black"
+            android:layout_gravity="right"
+            android:gravity="right"
+            android:layout_marginRight="25dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="25dp"
+            android:layout_alignParentBottom="true"
+            android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
+
+
+
+
+

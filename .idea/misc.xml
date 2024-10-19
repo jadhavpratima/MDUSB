@@ -1,0 +1,133 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/drawable-v24/buttonback.xml" value="0.1805" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/drawable-v24/rectangle.xml" value="0.1805" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/drawable/buttonback.xml" value="0.1805" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/drawable/edit_text.xml" value="0.138" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/drawable/rectangle.xml" value="0.1805" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/layout/activity_admin.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/layout/activity_free.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/layout/activity_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/layout/activity_passcode.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/layout/activity_payment.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/layout/activity_terminal.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/layout/insertbottle.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/layout/pickdish.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/layout/stockover.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/MD05_USB_Pantro/app/src/main/res/layout/stockr.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/drawable-v24/arc.xml" value="0.1945" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/drawable-v24/arcleft.xml" value="0.1945" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/drawable/arc.xml" value="0.1945" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/drawable/arcleft.xml" value="0.1945" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/activity_admin.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/activity_free.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/activity_menu.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/activity_passcode.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/activity_payment.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/activity_terminal.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/authorizationpopup.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/declinedpopup.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/dialog_header_success_yellow.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/dialog_header_success_yellow2.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/dialog_header_success_yellow3.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/dialog_header_success_yellow5.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/dialog_header_success_yellow6.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/dialog_header_success_yellowthankyou.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/dialog_warning.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/dishreadypopscreen.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/errorfound.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/firstordercompleted.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/inprocesspopscreen.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/ordercompleted.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/ordernamelist.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/outofservicepopscreen.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/pairpopup.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/pickdish.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/settingpopup.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/stockover.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/stockr.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/stockrefailed.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/thankyoupopscreen.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/transactioncancelpopup.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/transactionerror.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/transactionfailedpopup.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB/app/src/main/res/layout/transactionnotpopscreen.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/activity_admin.xml" value="0.14732510288065845" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/activity_free.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/activity_main.xml" value="0.13621399176954732" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/activity_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/activity_payment.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/activity_terminal.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/authorizationpopup.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/declinedpopup.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/dialog_header_success_yellow.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/dialog_header_success_yellow2.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/dialog_header_success_yellow3.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/dialog_header_success_yellow5.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/dialog_header_success_yellow6.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/dialog_header_success_yellowthankyou.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/dishreadypopscreen.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/errorfound.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/firstordercompleted.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/inprocesspopscreen.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/pairpopup.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/pickdish.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/pleasewait.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/settingpopup.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/stockover.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/stockr.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/stockrefailed.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/thankyoupopscreen.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/transactioncancelpopup.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/transactionerror.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/transactionfailedpopup.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/Sk_USB_vendibites/app/src/main/res/layout/transactionnotpopscreen.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/drawable-v24/arc.xml" value="0.1945" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/drawable-v24/arcleft.xml" value="0.168" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/drawable/arc.xml" value="0.1945" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/drawable/arcleft.xml" value="0.168" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/drawable/rectangle.xml" value="0.1945" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/activity_admin.xml" value="0.14732510288065845" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/activity_free.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/activity_freemodemenu.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/activity_main.xml" value="0.14732510288065845" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/activity_menu.xml" value="0.15" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/activity_passcode.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/activity_payment.xml" value="0.1328125" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/activity_product1_details.xml" value="0.15" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/activity_product2_details.xml" value="0.12182116488925349" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/activity_product3_details.xml" value="0.12182116488925349" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/activity_product4_details.xml" value="0.1015625" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/activity_product_details.xml" value="0.12182116488925349" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/activity_terminal.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/authorizationpopup.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/dialog_header_success_yellow3.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/dialog_header_success_yellow5.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/dialog_header_success_yellow6.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/offline.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/ordercompleted.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/outofservicepopscreen.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/pickdish.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/pleasewait.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/screen1.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/USB Projects/nutric_USB/app/src/main/res/layout/transactionnotpopscreen.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/VendiBite/Jc_USB_VendiVBite/app/src/main/res/layout/activity_admin.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/VendiBite/Jc_USB_VendiVBite/app/src/main/res/layout/activity_free.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/VendiBite/Jc_USB_VendiVBite/app/src/main/res/layout/activity_main.xml" value="0.11380208333333333" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/VendiBite/Jc_USB_VendiVBite/app/src/main/res/layout/activity_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/VendiBite/Jc_USB_VendiVBite/app/src/main/res/layout/activity_passcode.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/VendiBite/Jc_USB_VendiVBite/app/src/main/res/layout/activity_payment.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/VendiBite/Jc_USB_VendiVBite/app/src/main/res/layout/activity_terminal.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/VendiBite/Jc_USB_VendiVBite/app/src/main/res/layout/dialog_header_success_yellow.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/VendiBite/Jc_USB_VendiVBite/app/src/main/res/layout/stockr.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Saniya/VendiBite/Sk_USB_VendiVBite/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK" />
+</project>

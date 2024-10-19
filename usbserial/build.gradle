@@ -1,0 +1,28 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 30
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 30
+    }
+
+    compileOptions {
+        encoding "UTF-8"
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    dependencies {
+        implementation 'com.annimon:stream:1.2.1'  // Stream utility for Java 8
+        implementation 'com.squareup.okio:okio:2.1.0'  // I/O utility library
+        implementation 'org.apache.httpcomponents:httpclient:4.5.13'  // Networking utility
+        implementation 'commons-io:commons-io:2.7'  // IO utility for stream handling
+
+        androidTestImplementation 'com.android.support.test:runner:1.0.2'
+        androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+        androidTestImplementation 'junit:junit:4.12'
+        testImplementation 'junit:junit:4.12'
+    }
+}

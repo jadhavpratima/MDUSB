@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="440dp"
+    app:cardBackgroundColor="@color/GreenYellow"
+    app:cardCornerRadius="30dp"
+    app:cardElevation="3dp"
+    android:layout_gravity="center"
+    android:layout_centerInParent="true"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="500dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <!--<ImageView
+            android:layout_width="150dp"
+            android:layout_height="90dp"
+            android:id="@+id/logo"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/companylogo"/>-->
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="170dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/c_logo" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thank You"
+            android:textSize="40dp"
+            android:id="@+id/thankyou"
+            android:layout_below="@+id/logo"
+            android:layout_marginTop="40dp"
+            android:layout_centerHorizontal="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+            android:textColor="@android:color/black"
+            android:fontFamily="@font/bell_mt"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Transaction successful"
+            android:textSize="40dp"
+            android:id="@+id/sucess"
+            android:layout_marginTop="18dp"
+            android:layout_below="@+id/thankyou"
+            android:layout_centerInParent="true"
+            android:singleLine="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+            android:textColor="@android:color/black"
+            android:fontFamily="@font/bell_mt"
+            />
+
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="61dp"
+            android:textSize="40dp"
+            android:background="@drawable/okimg"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginRight="50dp"
+            android:id="@+id/okbtn"
+            android:visibility="gone"
+            android:layout_marginBottom="35dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+            android:textColor="@android:color/black"
+            android:fontFamily="@font/andika"
+            />
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

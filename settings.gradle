@@ -1,0 +1,3 @@
+include ':usbserial'
+include ':app'
+rootProject.name = "Md_USB_pantro"
